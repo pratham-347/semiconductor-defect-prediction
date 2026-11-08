@@ -34,11 +34,4 @@ By adjusting the model's confidence threshold, the factory can choose its risk p
 | 0.30      | 11             | 10     | 63                             |
 | 0.10      | 17             | 4      | 166                            |
 
-##  Repository Structure
-```text
-├── data/
-│   └── secom.csv                   # The raw dataset
-├── models/
-│   └── secom_defect_model.pkl      # The final optimized pipeline (ready for deployment)
-├── secom_defect_detection.ipynb    # Full exploratory data analysis and modeling notebook
-└── README.md
+
